@@ -54,7 +54,9 @@ margin: 20px;
 </div</body>
 </html>
 
+
 ## OUTPUT
+![Screenshot 2023-05-30 at 08-49-25 Screenshot](https://github.com/Krithikadini/Ex05_Web-Design/assets/127816336/0d589625-e142-4f26-adfc-c37b02bc726d)
 
 
 ## RESULT
