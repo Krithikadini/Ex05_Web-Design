@@ -16,7 +16,43 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+<html>
+<style>
+<head>
+h1{
+background-color:rgb(251,255,0);
+color:rgb(128,0,111);
+}
+p.a {
+font-style:underline;
+}
+p.b{
+font-style:oblique
+}
+p.c {
+font style: italic;
+}p.d {
+font-style:underline;
+}
+div{
+background-color; rgb(211,211,211);
+width: 300px;
+border; 5px solid rgb(128,0,128);
+padding: 50px;
+margin: 20px;
+}
+</style>
+<body style="background-color:yellow;"></body>
+<h1 style="text-align:center;">BIO DATA</h1>
+<div
+<div class="center">
+<p><h2> <p class="a"><b>Name:- KRITHIKA D.<b></p></h2>
+<h2><p class="b">Ref No:-212222250015 </h2></p>
+<h2><p class="c">Dept:- <b>AGRICULTURAL ENGINEERING</P></h2>
+<h2> Year:-1st</h2>
+<h2> <p class="d"> Hobbies:- SINGING,LISTENING MUSIC</p>
+</div</body>
+</html>
 
 ## OUTPUT
 
