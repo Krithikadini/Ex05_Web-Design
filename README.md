@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <style>
 <head>
@@ -53,6 +54,7 @@ margin: 20px;
 <h2> <p class="d"> Hobbies:- SINGING,LISTENING MUSIC</p>
 </div</body>
 </html>
+```
 
 
 ## OUTPUT
